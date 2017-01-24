@@ -1,5 +1,7 @@
 # Docker base images for Ruby, Python, Node.js and Meteor web apps
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bae6eae061554ec29d5796ccd82873a3)](https://www.codacy.com/app/HolySynnr/passenger-docker?utm_source=github.com&utm_medium=referral&utm_content=HolySynnr/passenger-docker&utm_campaign=badger)
+
 <center><img src="http://blog.phusion.nl/wp-content/uploads/2012/07/Passenger_chair_256x256.jpg" width="196" height="196" alt="Phusion Passenger"> <img src="http://blog.phusion.nl/wp-content/uploads/2013/11/docker.png" width="233" height="196" alt="Docker"></center>
 
 Passenger-docker is a set of [Docker](https://www.docker.com) images meant to serve as good bases for **Ruby, Python, Node.js and Meteor** web app images. In line with [Phusion Passenger](https://www.phusionpassenger.com/)'s goal, passenger-docker's goal is to make Docker image building for web apps much easier and faster.
